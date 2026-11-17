@@ -66,7 +66,7 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mysql,aws,git" alt="Tecnologias"/>
 </p>
----
+
 
 <!-- ===================== EXPERIÊNCIA (abre e fecha) ===================== -->
 <details>
