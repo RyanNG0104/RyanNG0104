@@ -1,4 +1,4 @@
-name: Gerar cobrinha das contribuições
+name: Gerar Pac-Man das contribuições
 
 on:
   schedule:
@@ -11,13 +11,12 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Gerar SVG da cobrinha
-        uses: Platane/snk@v3
+      - name: Gerar SVG do Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#a855f7&color_dots=#161b22,#3b1f5c,#6d28d9,#9333ea,#c084fc
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
