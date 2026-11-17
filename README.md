@@ -33,6 +33,17 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 
 ---
 
+
+## 📊 Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RyanNG0104&locale=pt_BR&hide_border=true&background=0D0117&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=A855F7&sideNums=E9D5FF&sideLabels=C084FC&dates=9D7BC9&stroke=3B1F5C" alt="Sequência de contribuições"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanNG0104&bg_color=0d0117&color=e9d5ff&line=a855f7&point=c084fc&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20GitHub" alt="Gráfico de contribuições"/>
+</p>
+
 <!-- ===================== TECNOLOGIAS ===================== -->
 ## 🛠️ Tecnologias
 
@@ -58,19 +69,6 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 - Criação e testes de APIs com Postman
 - Atendimento a clientes do setor de seguros (SulAmérica)
 - Rotina ágil com reuniões diárias e contato direto com clientes
-
----
-
-<!-- ===================== CONTRIBUIÇÕES ===================== -->
-## 📊 Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RyanNG0104&locale=pt_BR&hide_border=true&background=0D0117&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=A855F7&sideNums=E9D5FF&sideLabels=C084FC&dates=9D7BC9&stroke=3B1F5C" alt="Sequência de contribuições"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanNG0104&bg_color=0d0117&color=e9d5ff&line=a855f7&point=c084fc&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20GitHub" alt="Gráfico de contribuições"/>
-</p>
 
 ---
 
