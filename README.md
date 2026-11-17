@@ -56,6 +56,10 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
   </a>
 </p>
 
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/output/github-snake-dark.svg" alt="Cobrinha comendo as contribuições"/>
+</p>
+
 </details>
 
 ---
