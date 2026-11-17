@@ -10,12 +10,17 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ssilva-ryan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:moreiraryan803@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=RyanNG0104&label=VISITAS&color=a855f7&style=for-the-badge" alt="Contador de visitas"/>
 </p>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB STATS (clicáveis) ===================== -->
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/3-stats.svg" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/2-most-commit-language.svg" alt="Linguagens mais usadas"/>
+  <a href="https://github.com/RyanNG0104?tab=repositories">
+    <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/3-stats.svg" alt="Estatísticas do GitHub"/>
+  </a>
+  <a href="https://github.com/RyanNG0104?tab=repositories">
+    <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/2-most-commit-language.svg" alt="Linguagens mais usadas"/>
+  </a>
 </p>
 
 ---
@@ -33,16 +38,27 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 
 ---
 
+<!-- ===================== CONTRIBUIÇÕES (abre e fecha) ===================== -->
+<details>
+<summary><b>📊 Contribuições no GitHub (clique para ver)</b></summary>
 
-## 📊 Contribuições
+<br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RyanNG0104&locale=pt_BR&hide_border=true&background=0D0117&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=A855F7&sideNums=E9D5FF&sideLabels=C084FC&dates=9D7BC9&stroke=3B1F5C" alt="Sequência de contribuições"/>
+  <a href="https://github.com/RyanNG0104">
+    <img src="https://streak-stats.demolab.com/?user=RyanNG0104&locale=pt_BR&hide_border=true&background=0D0117&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=A855F7&sideNums=E9D5FF&sideLabels=C084FC&dates=9D7BC9&stroke=3B1F5C" alt="Sequência de contribuições"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanNG0104&bg_color=0d0117&color=e9d5ff&line=a855f7&point=c084fc&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20GitHub" alt="Gráfico de contribuições"/>
+  <a href="https://github.com/RyanNG0104">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanNG0104&bg_color=0d0117&color=e9d5ff&line=a855f7&point=c084fc&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20GitHub" alt="Gráfico de contribuições"/>
+  </a>
 </p>
+
+</details>
+
+---
 
 <!-- ===================== TECNOLOGIAS ===================== -->
 ## 🛠️ Tecnologias
@@ -60,8 +76,11 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 
 ---
 
-<!-- ===================== EXPERIÊNCIA ===================== -->
-## 💼 Experiência
+<!-- ===================== EXPERIÊNCIA (abre e fecha) ===================== -->
+<details>
+<summary><b>💼 Experiência (clique para ver)</b></summary>
+
+<br/>
 
 **Desenvolvedor de Sistemas** · Itpower Software e Ltda. · *2025 – Atual*
 
@@ -69,6 +88,8 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 - Criação e testes de APIs com Postman
 - Atendimento a clientes do setor de seguros (SulAmérica)
 - Rotina ágil com reuniões diárias e contato direto com clientes
+
+</details>
 
 ---
 
