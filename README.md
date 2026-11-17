@@ -64,16 +64,8 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,aws,git,github,postman,vscode&perline=12" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mysql,aws,git" alt="Tecnologias"/>
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ColdFusion-005A9C?style=flat-square" alt="ColdFusion"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/APIs%20REST-8B5CF6?style=flat-square" alt="APIs REST"/>
-  <img src="https://img.shields.io/badge/Metodologias%20%C3%81geis-A855F7?style=flat-square" alt="Metodologias Ágeis"/>
-</p>
-
 ---
 
 <!-- ===================== EXPERIÊNCIA (abre e fecha) ===================== -->
