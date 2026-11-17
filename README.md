@@ -14,8 +14,8 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/dracula/3-stats.svg" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Linguagens mais usadas"/>
+  <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/3-stats.svg" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/2-most-commit-language.svg" alt="Linguagens mais usadas"/>
 </p>
 
 ---
