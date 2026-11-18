@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D0117"/>
+      <stop offset="0.6" stop-color="#07000D"/>
+      <stop offset="1" stop-color="#14052A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E9D5FF"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="358" rx="22"/></clipPath>
+    <style>
+      .mono { font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; }
+      .sans { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .blink { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+      .fade1 { animation: up .8s ease-out both; }
+      .fade2 { animation: up .8s ease-out .25s both; }
+      .fade3 { animation: up .8s ease-out .5s both; }
+      @keyframes up { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+
+    <!-- grade sutil -->
+    <g stroke="#A855F7" stroke-opacity="0.05">
+      <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+      <path d="M100 0V360M200 0V360M300 0V360M400 0V360M500 0V360M600 0V360M700 0V360M800 0V360M900 0V360M1000 0V360M1100 0V360"/>
+    </g>
+
+    <!-- onda -->
+    <path d="M0 330 C 200 300, 380 345, 600 290 S 1000 230, 1200 140" fill="none" stroke="#A855F7" stroke-opacity="0.35" stroke-width="2"/>
+    <path d="M0 345 C 260 320, 420 350, 640 310 S 1000 270, 1200 200" fill="none" stroke="#C084FC" stroke-opacity="0.15" stroke-width="1.5"/>
+
+    <!-- card de código -->
+    <circle cx="985" cy="180" r="170" fill="url(#glow)"/>
+    <rect x="790" y="70" width="370" height="220" rx="14" fill="#0A0114" stroke="#A855F7" stroke-opacity=".7" stroke-width="1.5"/>
+    <text x="812" y="102" class="mono" font-size="12" fill="#6B4E99">// ryan.js</text>
+    <g class="mono" font-size="16">
+      <text x="812" y="136" fill="#E9D5FF"><tspan fill="#C084FC">const</tspan> ryan = {</text>
+      <text x="836" y="164" fill="#E9D5FF">stack: <tspan fill="#A855F7">'full-stack'</tspan>,</text>
+      <text x="836" y="192" fill="#E9D5FF">foco: <tspan fill="#A855F7">'IA generativa'</tspan>,</text>
+      <text x="836" y="220" fill="#E9D5FF">cloud: <tspan fill="#A855F7">'AWS'</tspan>,</text>
+      <text x="836" y="248" fill="#E9D5FF">aprendendo: <tspan fill="#C084FC">true</tspan></text>
+      <text x="812" y="276" fill="#E9D5FF">};<tspan class="blink" fill="#A855F7">▌</tspan></text>
+    </g>
+
+    <!-- selo -->
+    <g class="fade1">
+      <rect x="48" y="36" width="210" height="40" rx="20" fill="#0D0117" stroke="#A855F7" stroke-opacity="0.7" stroke-width="1.5"/>
+      <circle class="pulse" cx="72" cy="56" r="6" fill="#A855F7"/>
+      <text x="88" y="61" class="mono" font-size="14" font-weight="700" fill="#E9D5FF" letter-spacing="1">BUILDING WITH AI</text>
+    </g>
+
+    <!-- textos -->
+    <g class="fade2">
+      <text x="50" y="118" class="mono" font-size="16" fill="#9D7BC9" letter-spacing="4">HELLO WORLD, EU SOU</text>
+      <text x="46" y="192" class="sans" font-size="72" font-weight="900" fill="url(#name)" letter-spacing="1">RYAN MOREIRA<tspan class="blink" fill="#A855F7">_</tspan></text>
+    </g>
+    <g class="fade3">
+      <text x="50" y="246" class="mono" font-size="22" fill="#FFFFFF" letter-spacing="1.5">FULL STACK <tspan fill="#A855F7">•</tspan> BACK-END <tspan fill="#A855F7">•</tspan> IA GENERATIVA</text>
+      <text x="50" y="284" class="mono" font-size="15" fill="#9D7BC9">Do banco de dados à IA. Da ideia ao deploy.</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="358" rx="22" fill="none" stroke="#3B1F5C" stroke-width="2"/>
+</svg>
