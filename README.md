@@ -29,22 +29,14 @@
 ---
 
 <!-- ===================== SOBRE MIM ===================== -->
-##  Sobre mim
-
-Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web, atualmente na **Itpower Software**, onde trabalho com desenvolvimento back-end, integração de APIs e bancos de dados para clientes do setor de seguros.
-
--  Cursando **Engenharia de Software** na **Universidade Cruzeiro do Sul**
--  Estudando **Soluções de Inteligência Artificial Generativa utilizando serviços da AWS**
--  No momento, focado em aprender a construir aplicações com **LLMs e agentes de IA**
--  Aberto a colaborar em projetos de **desenvolvimento web e IA**
--  Barueri, São Paulo
-
----
+<p align="center">
+  <img width="100%" src="./sobre-mim.svg" alt="Sobre mim: Ryan Moreira, Dev Full-Stack na Itpower Software, estudando IA Generativa com AWS"/>
+</p>
 
 <!-- ===================== FOCO ATUAL ===================== -->
 ##  Foco atual
 
-|  Trabalhando em | 📚 Aprendendo | 💬 Pode me perguntar sobre |
+|  Trabalhando em |  Aprendendo |  Pode me perguntar sobre |
 |:---:|:---:|:---:|
 | Sistemas web e APIs na Itpower | IA Generativa, LLMs e agentes com AWS | Back-end, APIs REST e bancos de dados |
 
@@ -90,7 +82,7 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 
 
 <!-- ===================== CONTRIBUIÇÕES ===================== -->
-## 🔥 Contribuições
+##  Contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RyanNG0104&locale=pt_BR&hide_border=true&background=0D0117&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=A855F7&sideNums=E9D5FF&sideLabels=C084FC&dates=9D7BC9&stroke=3B1F5C" alt="Sequência de contribuições"/>
