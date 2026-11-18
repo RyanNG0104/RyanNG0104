@@ -43,26 +43,10 @@
 ---
 
 <!-- ===================== TECNOLOGIAS ===================== -->
-##  Tecnologias
-
-**Linguagens e frameworks**
+## Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-0D0117?style=for-the-badge&logo=javascript&logoColor=A855F7" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-0D0117?style=for-the-badge&logo=react&logoColor=A855F7" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-0D0117?style=for-the-badge&logo=nodedotjs&logoColor=A855F7" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-0D0117?style=for-the-badge&logo=python&logoColor=A855F7" alt="Python"/>
-  <img src="https://img.shields.io/badge/ColdFusion-0D0117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTg1NUY3IiBzdHJva2Utd2lkdGg9IjIuMiIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0E4NTVGNyIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZD0iTTExIDguMmEzLjYgMy42IDAgMSAwIDAgNy42TTE0LjIgMTYuNVY4aDQuM00xNC4yIDEyaDMuNiIvPjwvc3ZnPg%3D%3D" alt="ColdFusion"/>
-</p>
-
-**Bancos de dados, nuvem e ferramentas**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-0D0117?style=for-the-badge&logo=mysql&logoColor=A855F7" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-0D0117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iI0E4NTVGNyI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgN3Y0YzAgMS42NiAzLjU4IDMgOCAzczgtMS4zNCA4LTNWN2MwIDEuNjYtMy41OCAzLTggM1M0IDguNjYgNCA3eiIvPjxwYXRoIGQ9Ik00IDEzdjRjMCAxLjY2IDMuNTggMyA4IDNzOC0xLjM0IDgtM3YtNGMwIDEuNjYtMy41OCAzLTggM3MtOC0xLjM0LTgtM3oiLz48L2c%2BPC9zdmc%2B" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/AWS-0D0117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0E4NTVGNyIgZD0iTTE5LjQgMTAuMDRBNy40OSA3LjQ5IDAgMCAwIDUuNCA4LjA0IDYgNiAwIDAgMCA2IDIwaDEzYTUgNSAwIDAgMCAuNC05Ljk2eiIvPjwvc3ZnPg%3D%3D" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Git-0D0117?style=for-the-badge&logo=git&logoColor=A855F7" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-0D0117?style=for-the-badge&logo=postman&logoColor=A855F7" alt="Postman"/>
+  <img src="./tecnologias.svg" alt="JavaScript, React, Node.js, Python, ColdFusion, MySQL, SQL Server, AWS, Git e Postman"/>
 </p>
 
 ---
