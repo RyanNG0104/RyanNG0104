@@ -1,3 +1,8 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img width="100%" src="./banner.svg" alt="Ryan Moreira - Full Stack, Back-end e IA Generativa"/>
+</p>
+
 <!-- ===================== APRESENTAÇÃO ===================== -->
 <h1 align="center">Olá, eu sou o Ryan Moreira 👋</h1>
 
