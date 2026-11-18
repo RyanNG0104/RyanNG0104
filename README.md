@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ssilva-ryan/"><img src="https://img.shields.io/badge/LinkedIn-0D0117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ryan-moreira-0426ba38a/"><img src="https://img.shields.io/badge/LinkedIn-0D0117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0E4NTVGNyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
   <a href="mailto:moreiraryan803@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0117?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Gmail"/></a>
   <a href="https://github.com/RyanNG0104?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-0D0117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Repositórios"/></a>
   <img src="https://komarev.com/ghpvc/?username=RyanNG0104&label=VISITAS&color=7c3aed&style=for-the-badge" alt="Contador de visitas"/>
@@ -52,15 +52,15 @@
   <img src="https://img.shields.io/badge/React-0D0117?style=for-the-badge&logo=react&logoColor=A855F7" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-0D0117?style=for-the-badge&logo=nodedotjs&logoColor=A855F7" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Python-0D0117?style=for-the-badge&logo=python&logoColor=A855F7" alt="Python"/>
-  <img src="https://img.shields.io/badge/ColdFusion-0D0117?style=for-the-badge" alt="ColdFusion"/>
+  <img src="https://img.shields.io/badge/ColdFusion-0D0117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTg1NUY3IiBzdHJva2Utd2lkdGg9IjIuMiIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0E4NTVGNyIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZD0iTTExIDguMmEzLjYgMy42IDAgMSAwIDAgNy42TTE0LjIgMTYuNVY4aDQuM00xNC4yIDEyaDMuNiIvPjwvc3ZnPg%3D%3D" alt="ColdFusion"/>
 </p>
 
 **Bancos de dados, nuvem e ferramentas**
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-0D0117?style=for-the-badge&logo=mysql&logoColor=A855F7" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-0D0117?style=for-the-badge" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/AWS-0D0117?style=for-the-badge" alt="AWS"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-0D0117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iI0E4NTVGNyI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgN3Y0YzAgMS42NiAzLjU4IDMgOCAzczgtMS4zNCA4LTNWN2MwIDEuNjYtMy41OCAzLTggM1M0IDguNjYgNCA3eiIvPjxwYXRoIGQ9Ik00IDEzdjRjMCAxLjY2IDMuNTggMyA4IDNzOC0xLjM0IDgtM3YtNGMwIDEuNjYtMy41OCAzLTggM3MtOC0xLjM0LTgtM3oiLz48L2c%2BPC9zdmc%2B" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/AWS-0D0117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0E4NTVGNyIgZD0iTTE5LjQgMTAuMDRBNy40OSA3LjQ5IDAgMCAwIDUuNCA4LjA0IDYgNiAwIDAgMCA2IDIwaDEzYTUgNSAwIDAgMCAuNC05Ljk2eiIvPjwvc3ZnPg%3D%3D" alt="AWS"/>
   <img src="https://img.shields.io/badge/Git-0D0117?style=for-the-badge&logo=git&logoColor=A855F7" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-0D0117?style=for-the-badge&logo=postman&logoColor=A855F7" alt="Postman"/>
 </p>
