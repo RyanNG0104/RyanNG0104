@@ -4,7 +4,7 @@
 </p>
 
 <!-- ===================== APRESENTAÇÃO ===================== -->
-<h1 align="center">Olá, eu sou o Ryan Moreira 👋</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Estudante+de+Engenharia+de+Software;Explorando+IA+Generativa+com+AWS;Construindo+aplica%C3%A7%C3%B5es+com+LLMs" alt="Typing SVG"/>
@@ -19,30 +19,39 @@
 
 ---
 
+<!-- ===================== PAC-MAN ===================== -->
+
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/output/pacman-contribution-graph-dark.svg" alt="Pac-Man comendo as contribuições"/>
+</p>
+
+---
+
 <!-- ===================== SOBRE MIM ===================== -->
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
 Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web, atualmente na **Itpower Software**, onde trabalho com desenvolvimento back-end, integração de APIs e bancos de dados para clientes do setor de seguros.
 
-- 🎓 Cursando **Engenharia de Software** na **Universidade Cruzeiro do Sul**
-- 🤖 Estudando **Soluções de Inteligência Artificial Generativa utilizando serviços da AWS**
-- 🌱 No momento, focado em aprender a construir aplicações com **LLMs e agentes de IA**
-- 🤝 Aberto a colaborar em projetos de **desenvolvimento web e IA**
-- 📍 Barueri, São Paulo
+-  Cursando **Engenharia de Software** na **Universidade Cruzeiro do Sul**
+-  Estudando **Soluções de Inteligência Artificial Generativa utilizando serviços da AWS**
+-  No momento, focado em aprender a construir aplicações com **LLMs e agentes de IA**
+-  Aberto a colaborar em projetos de **desenvolvimento web e IA**
+-  Barueri, São Paulo
 
 ---
 
 <!-- ===================== FOCO ATUAL ===================== -->
-## 🎯 Foco atual
+##  Foco atual
 
-| 🔭 Trabalhando em | 📚 Aprendendo | 💬 Pode me perguntar sobre |
+|  Trabalhando em | 📚 Aprendendo | 💬 Pode me perguntar sobre |
 |:---:|:---:|:---:|
 | Sistemas web e APIs na Itpower | IA Generativa, LLMs e agentes com AWS | Back-end, APIs REST e bancos de dados |
 
 ---
 
 <!-- ===================== TECNOLOGIAS ===================== -->
-## 🛠️ Tecnologias
+##  Tecnologias
 
 **Linguagens e frameworks**
 
@@ -67,7 +76,7 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 ---
 
 <!-- ===================== EXPERIÊNCIA ===================== -->
-## 💼 Experiência
+##  Experiência
 
 **Desenvolvedor de Sistemas** · Itpower Software e Ltda. · *2025 – Atual*
 
@@ -78,26 +87,7 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/RyanNG0104?tab=repositories">
-    <img width="100%" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/0-profile-details.svg" alt="Detalhes do perfil"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/3-stats.svg" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/2-most-commit-language.svg" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/1-repos-per-language.svg" alt="Repositórios por linguagem"/>
-  <img height="170" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/main/profile-summary-card-output/aura_dark/4-productive-time.svg" alt="Horário mais produtivo"/>
-</p>
-
----
 
 <!-- ===================== CONTRIBUIÇÕES ===================== -->
 ## 🔥 Contribuições
@@ -112,14 +102,7 @@ Sou desenvolvedor full-stack com mais de 2 anos de experiência em projetos web,
 
 ---
 
-<!-- ===================== PAC-MAN ===================== -->
-## 👾 Pac-Man das contribuições
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/RyanNG0104/RyanNG0104/output/pacman-contribution-graph-dark.svg" alt="Pac-Man comendo as contribuições"/>
-</p>
-
----
 
 <!-- ===================== RODAPÉ ===================== -->
 <p align="center">📫 Vamos conversar? Me chame no <a href="https://www.linkedin.com/in/ssilva-ryan/">LinkedIn</a> ou por <a href="mailto:moreiraryan803@gmail.com">e-mail</a>!</p>
